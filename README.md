@@ -17,7 +17,7 @@ and the Flutter guide for
 
 This package will allow you to draw the `BilinearGradientDecorator` widget, as `LinearGradient` is already built in with Flutter.
 
-![Example view](./example.png)
+![Example view](https://github.com/sthefanoss/bilinear-gradient/blob/82b7c98f8e19862597d6ac6e562ab7e694029abd/screenshots/example.png)
 
 But don't confuse the `Container`'s `LinearGradient` with the `BilinearGradientDecorator`, since the former is an attribute of a `Container`'s decoration, while the latter is a stand alone `Widget`.
 
