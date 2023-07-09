@@ -1,0 +1,11 @@
+name: example
+description: A new Flutter project.
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bilinear_gradient:
+    path: ../
