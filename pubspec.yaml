@@ -1,21 +1,16 @@
 name: bilinear_gradient
-description: A new Flutter package project.
+description: A container that allows you to wrap your widgets within a 4 colors gradient.
 version: 0.0.1
-homepage:
+homepage: https://github.com/sthefanoss/bilinear-gradient
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
-  flutter: ">=1.17.0"
+  flutter: ">=3.7.0"
 
 dependencies:
   flutter:
     sdk: flutter
   flutter_shaders: ^0.1.2
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
 
 flutter:
   shaders:

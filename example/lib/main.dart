@@ -142,7 +142,7 @@ class HomePage extends StatelessWidget {
               topRightColor: topRightColor,
               bottomLeftColor: bottomLeftColor,
               bottomRightColor: bottomRightColor,
-              child: Center(child: DecoratedText('Bilinear Gradiente')),
+              child: Center(child: DecoratedText('Bilinear Gradient')),
             ),
           ),
         ],

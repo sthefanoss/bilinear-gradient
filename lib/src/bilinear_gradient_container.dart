@@ -1,5 +1,6 @@
 part of '../bilinear_gradient.dart';
 
+/// A container that allows you to implement 4 colors linear gradient.
 class BilinearGradientDecorator extends StatelessWidget {
   const BilinearGradientDecorator({
     super.key,
